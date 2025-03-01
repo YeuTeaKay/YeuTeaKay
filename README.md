@@ -9,7 +9,7 @@
   <a href="https://yutikay.itch.io">
     <img src="https://img.shields.io/static/v1?message=Itch.io&logo=Itc&label=&color=E9445f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Itch logo"  >
   </a>
-  <a value="jhobabalos@gmail.com" id="myInput">
+  <a value="jhobabalos@gmail.com" id="gmailInput">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" onclick="myFunction('gmailInput')" />
   </a>
   <a value="yeuteakay" id="discordInput">
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<h1 align="center"> Languages, Tools and Engine that I know to use </h1>
+<h1 align="center"> Languages, Tools and Engine that I use </h1>
 
 <br>
 
@@ -52,7 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
+  <img width="50" />
 </div>
 
 <br><br>
