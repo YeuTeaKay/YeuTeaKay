@@ -2,15 +2,12 @@
   <img src="https://imgur.com/wTWstgj.png" alt="Banner">
 </div>
 
-### <h1 align="center"> Socials, Contact Info and Games that I made </h1>
+### <h1 align="center"> Socials, Contacts and Games that I made </h1>
 <br>
 
 <div align="center">
   <a href="https://yutikay.itch.io">
     <img src="https://img.shields.io/static/v1?message=Itch.io&logo=Itc&label=&color=E9445f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Itch logo"  >
-  </a>
-  <a href="https://gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail - Jhobabalos@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://discordapp.com/users/737917347255550056">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
