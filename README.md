@@ -4,7 +4,6 @@
 
 ### <h1 align="center"> Socials, Contact Info and Games that I made </h1>
 <br>
-<script src="CopyToClipBoard.js"> </script>
 
 <div align="center">
   
