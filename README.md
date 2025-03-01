@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/static/v1?message=Itch.io&logo=Itc&label=&color=E9445f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Itch logo"  >
   </a>
   <a value="jhobabalos@gmail.com" id="myInput">
-    <a onclick="myFunction()">
+    <a onclick="myFunction('gmailInput')">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     </a>
   </a>
-  <a value="yeuteakay" id="myInput">
-    <a onclick="myFunction()">
+  <a value="yeuteakay" id="discordInput">
+    <a onclick="myFunction('discordInput')">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
   </a>
