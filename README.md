@@ -4,9 +4,10 @@
 
 ### <h1 align="center"> Socials, Contact Info and Games that I made </h1>
 <br>
+<script src="CopyToClipBoard.js"> </script>
 
 <div align="center">
-  <script src="CopyToClipBoard.js"> </script>
+  
   <a href="https://yutikay.itch.io">
     <img src="https://img.shields.io/static/v1?message=Itch.io&logo=Itc&label=&color=E9445f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Itch logo"  >
   </a>
